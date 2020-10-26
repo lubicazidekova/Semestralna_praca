@@ -1,0 +1,91 @@
+
+   body {
+      background-image: url("knihynapolici.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+
+
+   }
+
+
+   .black {
+      background-color: black;
+      position: absolute;
+      height: 35vh;
+      width: 50vw;
+      left: 25vw;
+      margin-top: 35vh;
+      font-size: medium;
+
+   }
+
+   .text {
+      font-family: "Monotype Corsiva";
+      color: white;
+      font-size: 2vw;
+      padding-left: 0vw;
+      padding-top: 5vh;
+   }
+
+
+   .nadpis {
+
+      font-family: "Arial Black";
+      color: gold;
+      font-size: 2.5vw;
+      padding-left: 2.5vw;
+      padding-top: 5vh;
+   }
+
+@media only screen and(min-width: 750px){
+   .black {
+      background-color: transparent;
+      position: absolute;
+      height: 35vh;
+      width: 50vw;
+      left: 25vw;
+      margin-top: 35vh;
+      font-size: medium;
+
+   }
+
+   .text {
+      font-family: "Monotype Corsiva";
+      color: white;
+      font-size: 2vw;
+      margin-left: 0vw;
+      padding-top: 2vh;
+   }
+
+
+   .nadpis {
+
+      font-family: "Arial Black";
+      color: gold;
+      font-size: 2vw;
+      padding-left: 5vw;
+      padding-top: 5vh;
+   }
+}
+
+   /* Modify the background color in navbar*/
+   .navbar-custom {
+      background-color: black;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

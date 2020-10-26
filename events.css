@@ -1,0 +1,73 @@
+
+body{
+    background-color: black;
+
+}
+
+.harry{
+    width:50vw;
+    padding-left: 5vw;
+    margin-top: 15vh;
+    border-radius: 10px;
+
+}
+
+.nadpisHarry {
+    color:darkgoldenrod;
+    font-family: "Bookman Old Style";
+    font-size: 4vw;
+    padding-left: 40vw;
+    margin-top: -30vw;
+    position: relative;
+
+}
+
+.cinema{
+    width:55vw;
+    margin-left: 40vw;
+    margin-top: -2vh;
+    border-radius: 10px;
+
+}
+
+.nadpisCinema {
+    color:silver;
+    font-family: "Bookman Old Style";
+    font-size: 4vw;
+    margin-left: -5vw;
+    margin-top: -35vw;
+    position: center;
+
+}
+.navbar-custom {
+    background-color: black;
+}
+
+@media only screen and(min-width: 750px){
+
+
+    .cinema{
+        width:20vw;
+        padding-left: 5vw;
+        margin-top: 15vh;
+        border-radius: 10px;
+
+    }
+
+    .nadpisCinema {
+        color:silver;
+        font-family: "Bookman Old Style";
+        font-size: 4vw;
+        padding-left: -10vw;
+        margin-top: -35vw;
+
+
+    }
+
+
+
+}
+
+
+
+
