@@ -1,1 +1,0 @@
-# Semestralna_praca
